@@ -1,6 +1,6 @@
 <?php
 
-include('email2.php');
+include('email.php');
 include("system.php"); 
 include("detect.php"); 
 
